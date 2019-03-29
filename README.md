@@ -1,6 +1,6 @@
 ## "CluffCoin" :shit:
 
-Currently outputs the wrong balance. (doesn't subtract the transaction amount, only the block rewards)
+Currently outputs the wrong balance. (doesn't subtract the transaction amount, only shows the block rewards)
 
 [Based on this tutorial](https://www.youtube.com/playlist?list=PLiOwoY8nInHxJ9txgWVLL-T-W2i2ccwNf)
 
