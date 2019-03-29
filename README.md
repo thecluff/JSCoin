@@ -6,12 +6,15 @@ Currently outputs the wrong balance. (doesn't subtract the transaction amount, o
 
 ### npm install
 crypto-js
+
 elliptic
 
 ### Running the blockchain
 cd ./src
+
 node main.js
 
 ### Generating new keys
 cd ./src
+
 node keygenerator.js
